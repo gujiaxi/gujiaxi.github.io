@@ -1,0 +1,10 @@
+<footer>
+  <div class="links">
+    <a href="/feed.xml">RSS</a>
+    {% if site.email %} &#183; <a href="mailto:{{ site.email }}">Email</a>{% endif %}
+    {% if site.pgp %}   &#183; <a href="https://pgp.mit.edu/pks/lookup?op=vindex&fingerprint=on&hash=on&search=0x{{ site.pgp }}">PGP</a>{% endif %}
+  </div>
+  <div class="copyright">
+    Copyright &copy; 2011–{{ site.time | date: '%Y' }} {{ site.author }}
+  </div>
+</footer>
