@@ -3,6 +3,7 @@ layout: post
 title:  "入手Kindle电子书阅读器"
 date:   2011-11-11 00:24:58
 ---
+
 Kindle终于送到了。
 
 > The all-new Kindle - Lighter, smaller, faster
