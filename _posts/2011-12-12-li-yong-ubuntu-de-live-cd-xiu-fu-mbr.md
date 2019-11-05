@@ -3,6 +3,7 @@ layout: post
 title:  "利用Ubuntu的Live CD修复MBR"
 date:   2011-12-12 00:24:58
 ---
+
 事情是这样的：昨天帮同学装了Ubuntu，后来他告诉我开机直接进Windows、进不了Ubuntu了，搞清楚状况之后，如你所想的那样，原因很简单，Windows下某个奇怪的软件重写了MBR。
 
 1. 使用Ubuntu live CD引导系统。
