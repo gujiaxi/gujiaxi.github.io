@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/gujiaxi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gujiaxi.com
+  * I am gujiaxi (https://keybase.io/gujiaxi) on keybase.
+  * I have a public key with fingerprint 3987 34D8 2EA1 A1B3 D934  7F9D 16B9 3FBF 3F91 F329
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01164fa1a683abcab092c922352b06845ad6319dfa1a1790e9703921c38edf02a43d0a",
+      "fingerprint": "398734d82ea1a1b3d9347f9d16b93fbf3f91f329",
+      "host": "keybase.io",
+      "key_id": "16b93fbf3f91f329",
+      "kid": "01164fa1a683abcab092c922352b06845ad6319dfa1a1790e9703921c38edf02a43d0a",
+      "uid": "d600142a08741ad629ec98b14ed80319",
+      "username": "gujiaxi"
+    },
+    "merkle_root": {
+      "ctime": 1551770947,
+      "hash_meta": "b5eefb12165504f72b01b128dc3e4eddcbd8d232744fdea7d0660408feb2be8e",
+      "seqno": 4878577
+    },
+    "revoke": {
+      "sig_ids": [
+        "82d5af7ef240d2c0799b7e9b84f8d533424161e71ed9ea349614bdd4281c37a20f"
+      ]
+    },
+    "service": {
+      "hostname": "gujiaxi.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1551770951,
+  "expire_in": 157680000,
+  "prev": "30848f86bddb42cf17f2ca8852ac5562bd584835870458520467e5aedde909ab",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUz1oVTEYff1RalHooHVyMKJ0KDW/N8nDWXApDiKCyiW5+fJ6fT/3ee99z9bS
+IijFoaCLoIuLdBMXO9RBqLOdRdBFxIKl0MXZmvtQRHE0S8iXc853cpI8PDJSG5vc
+gMe9C88P3x16+9XWri2fnl1ENnMLqL6ImjCYoOWgKONm6lAdYUIi7g0xkWLGJsZi
+TRNNKRPU4khxYVzEiHYVhEiNQUvMNCUJU+A8poYzhw2aRj7tNCDv5mmnDLJMK8m4
+UxQqnmVOMy69diSymnnrmdfEM6oDcS4rKkYwZ00BM2kWamERD+z9A/+fffcGci7C
+mHBqsJKcBCrVkGhlCQencNCpgAXkHdOGgG70bqRmPkVL06gNebMFcZ5lZZVtUqYV
+gghBpMSay3A+U8zFbShNIFoB4C2hJBICcy+DVxKWyiUMQiuXWKccZVRy7h0Y6XAU
+YY6VB0stKAg2CrjZyVCdK6mElMFBDv2sCVXzIm2E1ApUv4oUdcJs9rwETzl2NMFS
+aytBW8W9coIxTjmJCEgCToNhXEeEW+c4VSEjaSj26PpS1S7vp8lAvrqoPwOYSbJ2
+sNTNszJLslbYmCvLblGvgikXuhXyFtj4p0Zs044LryQw+pAXadYJQQXkX5kJMo1g
+vpvmEKcVQshI4TCqPtCv3hZWXHkVBbeW08QT6WlilBLUJEJE1DoRAEwoibkIVcwj
+CcKEeEFjbezvEIkKPk0jaIboOqbs5YCWxu/3RmuTY7UTkydH9x+9pnura99a52a3
+fn2sA8PVr6qNH5r4VXmHhmpPJvbitRcLq6s723c2T+H3+x++fDRTyxdXLu++akyt
+HKvt3z5z5fObnfXj55/B/NF7uy8PXjpbPN1+MLz1/dPw+PrGyA8=
+=KvPJ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gujiaxi
+
+==================================================================

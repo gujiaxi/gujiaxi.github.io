@@ -1,0 +1,13 @@
+# Site settings
+title:          "Isaac's Weblog"
+url:            ""
+baseurl:        ""
+author:         Jiaxi Gu
+email:          imjiaxi@gmail.com
+pgp:            16B93FBF3F91F329
+
+permalink: /posts/:name:output_ext
+
+exclude: ["README.md", "Rakefile"]
+
+header_pages: ["archive.md", "gallery.md"]

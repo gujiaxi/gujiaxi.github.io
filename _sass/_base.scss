@@ -1,0 +1,39 @@
+html {
+  font-family: "Optima", "Palatino Linotype", "STSong", "FangSong", serif;
+  color: #444;
+  font-size: 20px;
+  body {
+    margin: 0;
+  }
+
+  @media (max-width: 600px) {
+    font-size: 18px;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  background-color: transparent;
+  transition: background 150ms ease;
+  &:hover {
+    background-color: #b7e2ff;
+  }
+}
+
+img {
+  display: block;
+  margin: auto;
+  max-width: 98%;
+}
+
+hr {
+  width: 30%;
+  border: none;
+  border-top: 1px solid #e5e5e5;
+  margin: 1.5rem auto;
+}

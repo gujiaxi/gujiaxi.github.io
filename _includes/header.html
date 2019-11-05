@@ -1,0 +1,13 @@
+<header>
+  <nav>
+    <a href="{{ site.baseurl }}/">
+      <h2>{{ site.title }}</h2>
+    </a>
+    <ul>
+      {% for header_page in site.header_pages %}
+      {% assign hpage = site.pages | where: "name", header_page | first %}
+      <li><a href="{{ hpage.url | prepend: site.baseurl }}">{{ hpage.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>
