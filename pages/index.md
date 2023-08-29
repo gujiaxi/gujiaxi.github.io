@@ -22,7 +22,7 @@ permalink: /index.html
   <section class="publication">
     <h2>publications</h2>
       <ul>
-        <li><b>Jiaxi Gu</b>, et al. “Wukong: A 100 Million Large-scale Chinese Cross-modal Pre-training Benchmark.” In <i>Advances in Neural Information Processing Systems (NeurIPS)</i>, 2022.
+        <li><b>Jiaxi Gu</b>, et al. “Wukong: A 100 Million Large-scale Chinese Cross-modal Pre-training Benchmark.” In <i>Advances in Neural Information Processing Systems (NeurIPS)</i>, 2022.</li>
         <li><b>Jiaxi Gu</b>, et al. “Alohomora: Motion-based Hotword Detection in Head-Mounted Displays.” In <i>IEEE Internet of Things Journal</i>, 2019. [<a href="https://doi.org/10.1109/JIOT.2019.2946593">DOI</a>]</li>
         <li><b>Jiaxi Gu</b>, et al. “Traffic-based Side-channel Attack in Video Streaming.” In <i>IEEE/ACM Transactions on Networking</i>, 2019. [<a href="https://doi.org/10.1109/TNET.2019.2906568">DOI</a>]</li>
         <li><b>Jiaxi Gu</b>, et al. “Spotlight: Hot Target Discovery and Localization with Crowdsourced Photos” In <i>Tsinghua Science and Technology</i>, 2020. [<a href="https://doi.org/10.26599/TST.2019.9010004">DOI</a>]</li>
