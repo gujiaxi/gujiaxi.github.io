@@ -22,13 +22,13 @@ permalink: /index.html
   <section class="publication">
     <h2>publications</h2>
       <ul>
-        <li><b>Jiaxi Gu</b>, Zhiwen Yu and Kele Shen, “Alohomora: Motion-based Hotword Detection in Head-Mounted Displays.” In <i>IEEE Internet of Things Journal</i>, 2019. [<a href="https://doi.org/10.1109/JIOT.2019.2946593">DOI</a>]</li>
-        <li><b>Jiaxi Gu</b>, Jiliang Wang, Zhiwen Yu and Kele Shen, “Traffic-based Side-channel Attack in Video Streaming.” In <i>IEEE/ACM Transactions on Networking</i>, 2019. [<a href="https://doi.org/10.1109/TNET.2019.2906568">DOI</a>]</li>
-        <li><b>Jiaxi Gu</b>, Jiliang Wang, Lan Zhang, Zhiwen Yu, Xiaozhe Xin and Yunhao Liu, “Spotlight: Hot Target Discovery and Localization with Crowdsourced Photos” In <i>Tsinghua Science and Technology</i>, 2020. [<a href="https://doi.org/10.26599/TST.2019.9010004">DOI</a>]</li>
-        <li><b>Jiaxi Gu</b>, Lan Zhang, Jiliang Wang, Zhiwen Yu, Xiaozhe Xin and Yunhao Liu, “Spotlight: Multiple-object Localization by Mobile Photo Fusion.” In <i>International Conference on Big Data Computing and Communications</i>, 2018. [<a href="https://doi.org/10.1109/BIGCOM.2018.00044">DOI</a>]</li>
-        <li><b>Jiaxi Gu</b>, Kele Shen, Jiliang Wang, Zhiwen Yu, and Yunhao Liu, “NASR: NonAuditory Speech Recognition with Motion Sensors in Head-mounted Displays.” In <i>International Conference on Wireless Algorithms, Systems, and Applications</i>, 2018. [<a href="https://doi.org/10.1007/978-3-319-94268-1_63">DOI</a>]</li>
-        <li><b>Jiaxi Gu</b>, Jiliang Wang, Zhiwen Yu, and Kele Shen, “Walls Have Ears: Traffic-based Side-channel Attack in Video Streaming.” In <i>IEEE International Conference on Computer Communications</i>, 2018. [<a href="https://doi.org/10.1109/INFOCOM.2018.8486211">DOI</a>]</li>
-        <li>Lan Zhang, Taeho Jung, Kebin Liu, Xiangyang Li, Xuan Ding, <b>Jiaxi Gu</b>, and Yunhao Liu, “PIC: Enable Large-Scale Privacy Preserving Content-Based Image Search on Cloud.” In <i>IEEE Transactions on Parallel and Distributed Systems</i>, 2017. [<a href="https://doi.org/10.1109/TPDS.2017.2712148">DOI</a>]</li>
+        <li><b>Jiaxi Gu</b>, et al. “Wukong: A 100 Million Large-scale Chinese Cross-modal Pre-training Benchmark.” In <i>Advances in Neural Information Processing Systems</i>, 2022. [<a href="#">DOI</a>]</li>
+        <li><b>Jiaxi Gu</b>, et al. “Alohomora: Motion-based Hotword Detection in Head-Mounted Displays.” In <i>IEEE Internet of Things Journal</i>, 2019. [<a href="https://doi.org/10.1109/JIOT.2019.2946593">DOI</a>]</li>
+        <li><b>Jiaxi Gu</b>, et al. “Traffic-based Side-channel Attack in Video Streaming.” In <i>IEEE/ACM Transactions on Networking</i>, 2019. [<a href="https://doi.org/10.1109/TNET.2019.2906568">DOI</a>]</li>
+        <li><b>Jiaxi Gu</b>, et al. “Spotlight: Hot Target Discovery and Localization with Crowdsourced Photos” In <i>Tsinghua Science and Technology</i>, 2020. [<a href="https://doi.org/10.26599/TST.2019.9010004">DOI</a>]</li>
+        <li><b>Jiaxi Gu</b>, et al. “Spotlight: Multiple-object Localization by Mobile Photo Fusion.” In <i>International Conference on Big Data Computing and Communications</i>, 2018. [<a href="https://doi.org/10.1109/BIGCOM.2018.00044">DOI</a>]</li>
+        <li><b>Jiaxi Gu</b>, et al. “NASR: NonAuditory Speech Recognition with Motion Sensors in Head-mounted Displays.” In <i>International Conference on Wireless Algorithms, Systems, and Applications</i>, 2018. [<a href="https://doi.org/10.1007/978-3-319-94268-1_63">DOI</a>]</li>
+        <li><b>Jiaxi Gu</b>, et al. “Walls Have Ears: Traffic-based Side-channel Attack in Video Streaming.” In <i>IEEE International Conference on Computer Communications</i>, 2018. [<a href="https://doi.org/10.1109/INFOCOM.2018.8486211">DOI</a>]</li>
       </ul>
   </section>
 </div>
