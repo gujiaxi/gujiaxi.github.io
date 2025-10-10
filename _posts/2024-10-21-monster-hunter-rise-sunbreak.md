@@ -3,7 +3,7 @@ layout: post
 title:  "A Reflection on Monster Hunter Rise: Sunbreak"
 date:   2024-10-21
 ---
-<figure><img src="/assets/img/20241021-1.jpg" width="60%" /></figure>
+<figure><img src="/assets/img/20241021-monster-hunter-rise-sunbreak_1.jpg" width="60%" /></figure>
 
 花80块钱买的二手卡带，本来只想买游戏本体试试（因为之前没怎么玩过怪猎），卖家在页面也没写带没带DLC，结果收到卡带盒子里竟然是带DLC兑换码的，上手之后发现游戏还是很棒的，有种格斗RPG的感觉，应该很难找到同类型的游戏了吧，不愧是经典老IP。
 

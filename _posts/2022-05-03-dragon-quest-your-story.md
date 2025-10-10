@@ -3,7 +3,7 @@ layout: post
 title:  "A Reflection on Dragon Quest Your Story"
 date:   2022-05-03
 ---
-![](/assets/img/20220503-1.jpg)
+![](/assets/img/20220503-dragon-quest-your-story_1.jpg)
 
 晚上看了《勇者斗恶龙》电影版，竟然意外地不错，最后那几句台词真是打动到我这个从小离不开游戏的老玩家了：“虽然游戏是虚拟的，但跟游戏一起度过的时光却是真实的。”
 

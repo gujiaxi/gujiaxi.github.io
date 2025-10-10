@@ -3,7 +3,7 @@ layout: post
 title:  "A Reflection on Street of Eternal Happiness"
 date:   2022-05-08
 ---
-![](/assets/img/20220508-1.jpg)
+![](/assets/img/20220508-street-of-eternal-happiness_1.jpg)
 
 读过《長樂路：上海一條馬路上的中國夢》，作者2010年开始居住在上海长乐路，书里记录了他在附近遇到的上海居民和他们的生活经历，以此勾勒出社会的真实面貌。有开三明治店兼卖手风琴爱好蹦迪偶尔哈草的文艺青年，有家里并排放两台电视的冤家夫妻，有儿时得了白血病竟奇迹般恢复的来上海开花店的山东移民。
 

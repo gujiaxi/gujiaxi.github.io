@@ -3,10 +3,10 @@ layout: post
 title:  "A Reflection on Golf Story"
 date:   2022-01-09
 ---
-![](/assets/img/20220109-1.jpg)
+![](/assets/img/20220109-golf-story_1.jpg)
 
 周末沉迷了两天高尔夫⛳️，推荐《高尔夫物语》，剧情处处充满了《地球冒险》的味道，非常有意思，里面的高尔夫玩法很硬核，有不同材质的球杆可选，同时地形、风向、坡度都会对结果产生影响，还有地鼠跟鸟之类的也让打球变得特别有趣。
 
-![](/assets/img/20220109-2.jpg)
+![](/assets/img/20220109-golf-story_2.jpg)
 
 可重玩性很足，而且支持本地双人对战。

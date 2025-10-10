@@ -3,7 +3,7 @@ layout: post
 title:  "A Reflection on The Messenger"
 date:   2025-02-18
 ---
-<figure><img src="/assets/img/20250218-1.jpg" width="60%" /></figure>
+<figure><img src="/assets/img/20250218-the-messenger_1.jpg" width="60%" /></figure>
 
 这游戏的音乐跟美术真的是出类拔萃得棒，芯片音乐既复古又前卫，到水底音乐还会变得闷闷的。难度的话不算太高，尤其是Boss战基本上摸清套路稍微练习几次就行了。昨天刚打完时间高塔的Boss，穿越时间，主角戴上斗笠，音乐跟美术又上了一个台阶。
 

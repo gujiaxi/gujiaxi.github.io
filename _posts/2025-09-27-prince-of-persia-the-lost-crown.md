@@ -3,22 +3,22 @@ layout: post
 title:  "A Reflection on Prince of Persia: The Lost Crown"
 date:   2025-09-27
 ---
-<figure><img src="/assets/img/20250927-1.jpg" width="60%" /></figure>
+<figure><img src="/assets/img/20250927-prince-of-persia-the-lost-crown_1.jpg" width="60%" /></figure>
 
 通关《波斯王子：失落的王冠》，耗时22小时，探索率68%，各个方面来说都是质量上乘的银河城游戏，值得一玩。好多年前玩过《时之砂》，但早已忘了具体的玩法。没想到这个IP还能在今天推出新作，而且直接选择了伪3D的类银河恶魔城风格。初见时的平台跳跃还不算复杂，甚至让我想起了《奥日》，但当战斗系统展开时，立刻被它的手感震撼到了——流畅、凌厉，完全能比肩《鬼泣》《贝优妮塔》这样的动作标杆。
 
 <figure>
-<img src="/assets/img/20250927-2.jpg" width="99%" />
-<img src="/assets/img/20250927-3.jpg" width="99%" />
+<img src="/assets/img/20250927-prince-of-persia-the-lost-crown_2.jpg" width="99%" />
+<img src="/assets/img/20250927-prince-of-persia-the-lost-crown_3.jpg" width="99%" />
 <figcaption>前中期能力还不是很完备的时候面对几个强力Boss还是比较吃力的。</figcaption>
 </figure>
 
 Boss的设计和打法基本上都是结合了人物的各种能力，可以说是别具特色，令人印象深刻，尤其是前中期能力不是很多的时候，打起来很是费劲，比如森林女王琪亚娜，还是耗了挺长时间的。
 
 <figure>
-<img src="/assets/img/20250927-4.jpg" width="49%" />
-<img src="/assets/img/20250927-5.jpg" width="49%" />
-<img src="/assets/img/20250927-6.jpg" width="99%" />
+<img src="/assets/img/20250927-prince-of-persia-the-lost-crown_4.jpg" width="49%" />
+<img src="/assets/img/20250927-prince-of-persia-the-lost-crown_5.jpg" width="49%" />
+<img src="/assets/img/20250927-prince-of-persia-the-lost-crown_6.jpg" width="99%" />
 <figcaption>虽然后期的Boss难度也不低，但解锁的能力也越来越多，打起来非常爽快。</figcaption>
 </figure>
 
