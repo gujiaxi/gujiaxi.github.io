@@ -72,12 +72,15 @@
 
   // figure
   figure {
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    max-width: 100%;
     img {
       display: inline;
     }
     figcaption {
       font-style: italic;
-      text-align: center;
       font-size: 0.9rem;
       color: #666;
     }
