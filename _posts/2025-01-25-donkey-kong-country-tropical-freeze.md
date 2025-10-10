@@ -3,7 +3,7 @@ layout: post
 title:  "A Reflection on Donkey Kong Country: Tropical Freeze"
 date:   2025-01-25
 ---
-<figure><img src="/assets/img/20250125-1.jpeg" width="60%" /></figure>
+<figure><img src="/assets/img/20250125-1.jpg" width="60%" /></figure>
 
 平台跳跃这一类型如今略显老派，但本作绝对是属于精品中的精品，不光有设计精巧的平台和机关，海底、木桶、矿车更增添了多样的乐趣。美术也很棒，场景细节非常丰富，而且几张地图各具特色。至于难度（Switch重制版），根据设置可以分为几个档次，对于没那么硬核的玩家也能够上手，Funky模式可以多一颗心，商店售卖的道具也更便宜，如果还是觉得难，那还可以把角色改成Funky Kong，能二段跳且免受地刺伤害；反之，如果是硬核玩家，可以考虑选择Wii U的经典模式，还不够难的话可以考虑把拼图碎片跟KONG字母全收集。
 

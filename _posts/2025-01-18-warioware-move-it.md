@@ -3,6 +3,6 @@ layout: post
 title:  "A Reflection on WarioWare: Move It!"
 date:   2025-01-18
 ---
-<figure><img src="/assets/img/20250118-1.jpeg" width="60%" /></figure>
+<figure><img src="/assets/img/20250118-1.jpg" width="60%" /></figure>
 
 《超级舞动瓦力欧制造》故事模式通关，流程比想象中要短，但小游戏的数量挺大的，玩下来重复度不高。双人玩还是很有意思的，笑点非常日式或者说抽象，而且作为任天堂本家游戏，里面还能看到不少经典IP，包括马力欧兄弟、马力欧赛车、、马力欧医生、密特罗德、动物森友会。除了故事模式还有派对模式，最多支持4人共同游玩（需要四个JoyCon，不过故事模式下双人其实也需要两对JoyCon）。

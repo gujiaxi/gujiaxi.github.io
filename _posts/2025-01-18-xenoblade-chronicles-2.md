@@ -3,13 +3,13 @@ layout: post
 title:  "A Reflection on Xenoblade Chronicles 2"
 date:   2025-01-18
 ---
-<figure><img src="/assets/img/20250118-1.jpeg" width="60%" /></figure>
+<figure><img src="/assets/img/20250118-1.jpg" width="60%" /></figure>
 
 通关《异度神剑2》游戏时长80小时。故事背景宏大，探讨的主题也很深刻。随着剧情起伏，有人加入又有人离开，有敌人变成朋友，也有朋友又突然变成敌人，加上本作地图是真的大，有种公路片的感觉，结局令人感动，像结束了漫长的旅程。
 
-<img src="https://i.imgur.com/289kJY6.png" width="30%" />
-<img src="https://i.imgur.com/QLAqgNR.png" width="30%" />
-<img src="https://i.imgur.com/0bEwu3Y.png" width="30%" />
+<img src="/assets/img/20250118-2.png" width="30%" />
+<img src="/assets/img/20250118-3.png" width="30%" />
+<img src="/assets/img/20250118-4.png" width="30%" />
 
 角色形象设计和声优配音算是顶尖的，尤其是女性角色的设计，光、焰、尼娅设计得都非常讨喜，那些稀有异刃的立绘也各具特色。
 
@@ -23,6 +23,6 @@ date:   2025-01-18
 
 ## 黄金之国伊拉
 
-<figure><img src="https://i.imgur.com/s8qFFkL.jpeg" width="60%" /></figure>
+<figure><img src="/assets/img/20250118-5.jpg" width="60%" /></figure>
 
 “人和之力”强制做支线水时长的意图有点太明显了，系统相比本篇简化了不少，剧情的话原以为会补完本篇的一些设定，但看完还是有的地方没懂。
