@@ -70,6 +70,19 @@
     padding-left: 1rem;
   }
 
+  // figure
+  figure {
+    img {
+      display: inline;
+    }
+    figcaption {
+      font-style: italic;
+      text-align: center;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  }
+
   // footnotes
   .footnotes {
     font-size: 80%;
