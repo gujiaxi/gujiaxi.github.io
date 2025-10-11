@@ -42,21 +42,17 @@ customlogo=1
 backlight=100
 autohosoff=0
 autonogc=0
-
 [CFW-auto]
 payload=bootloader/payloads/fusee.bin
 icon=bootloader/res/icon_auto.bmp
-
 [CFW-emuMMC]
 fss0=atmosphere/package3
 emummcforce=1
 icon=bootloader/res/icon_emummc.bmp
-
 [CFW-sysMMC]
 fss0=atmosphere/package3
 emummc_force_disable=1
 icon=bootloader/res/icon_sysmmc.bmp
-
 [Stock-sysMMC]
 fss0=atmosphere/package3
 emummc_force_disable=1
@@ -96,8 +92,8 @@ icon=bootloader/res/icon_stock.bmp
 4. 由于新版的dbi只有俄语版，下面是几个常用的菜单翻译：
 
     ```
-Главное меню                  Main Menu
-============                  =========
+    Главное меню                  Main Menu
+    ============                  =========
 Просмотр SD карты             Browse SD card
 Просмотр установленных игр    Browse installed applications
 Инструменты                   Tools
