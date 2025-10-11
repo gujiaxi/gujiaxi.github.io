@@ -92,8 +92,8 @@ icon=bootloader/res/icon_stock.bmp
 4. 由于新版的dbi只有俄语版，下面是几个常用的菜单翻译：
 
     ```
-    Главное меню                  Main Menu
-    ============                  =========
+Главное меню                  Main Menu
+============                  =========
 Просмотр SD карты             Browse SD card
 Просмотр установленных игр    Browse installed applications
 Инструменты                   Tools
