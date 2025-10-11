@@ -42,30 +42,32 @@ customlogo=1
 backlight=100
 autohosoff=0
 autonogc=0
-[EMUNAND]
+
+[CFW-auto]
+payload=bootloader/payloads/fusee.bin
+icon=bootloader/res/icon_auto.bmp
+
+[CFW-emuMMC]
 fss0=atmosphere/package3
 emummcforce=1
-atmosphere=1
-icon=bootloader/res/icon_emu.bmp
-{}
-[CrackSYS]
+icon=bootloader/res/icon_emummc.bmp
+
+[CFW-sysMMC]
 fss0=atmosphere/package3
-atmosphere=1
 emummc_force_disable=1
-icon=bootloader/res/icon_crack.bmp
-{}
-[NormalSYS]
+icon=bootloader/res/icon_sysmmc.bmp
+
+[Stock-sysMMC]
 fss0=atmosphere/package3
 emummc_force_disable=1
 stock=1
-icon=bootloader/res/icon_normal.bmp
-{}
+icon=bootloader/res/icon_stock.bmp
     ```
 
 ### 引导启动
 
 1. 拆下Switch右手柄，插入短接期间，Type-C口连接注入器。
-2. 按住音量+键，同时按电源键启动，以进入自制系统启动流程。
+2. 按住音量+键，期间再按一下电源键启动，以进入自制系统启动流程。
 
 ### 系统备份
 
@@ -110,7 +112,7 @@ icon=bootloader/res/icon_normal.bmp
 
 ### 系统升级
 
-1. 先升级Atmosphère, Hekate, Sys-Patch，升级方法很简单下载最新版本到MicroSD卡上（可能需要更新注入器的payload.bin）。最好先删除atmosphere和bootloader文件夹再复制（注意自定义配置文件的保存），强行覆盖的话不能保证成功启动。
+1. 先升级Atmosphère, Hekate, Sys-Patch，升级方法很简单下载最新版本到MicroSD卡上（可能需要更新注入器的payload.bin）。⚠️注意保留`Nintendo`及`emuMMC`这两个文件夹，`Nintendo`是正版系统的数据，`emuMMC`是虚拟系统的数据；此外还有一些插件及自定义配置也需要注意按需保留避免覆盖。
 2. 从[Switch Firmwares](https://darthsternie.net/switch-firmwares/)下载最新固件。并解压到MicroSD卡根目录。
 3. 使用Daybreak来安装更新，选择Install，然后选择固件的安装目录。（如果Daybreak校验失败，可能是macOS添加隐藏文件的问题，可以通过`dot_clean`命令来清除隐藏文件。）
 4. 如果固件校验通过，点击Continue选择Preserve settings, 如果可以选择Install (FAT32 + exFAT)就选这个，否则就选Install (FAT32)。
