@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Frog For Whom the Bell Tolls"
+title:  "A Reflection on The Frog For Whom the Bell Tolls"
 date:   2025-11-06
 ---
 <figure><img src="/assets/img/20251106-the-frog-for-whom-the-bell-tolls_1.jpg" width="60%" /></figure>
