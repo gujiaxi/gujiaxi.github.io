@@ -19,8 +19,7 @@ date:   2025-12-22
 本作的体量着实不小，几个大地图不带重复的，而且玩法也很多样，童话般的剧情也有一些小巧思，细节处还有些无厘头的小幽默。
 
 <figure>
-<img src="/assets/img/20251222-paper-mario-the-origami-king_06.jpg" width="99%" />
-<img src="/assets/img/20251222-paper-mario-the-origami-king_07.jpg" width="99%" />
+<img src="/assets/img/20251222-paper-mario-the-origami-king_06.jpg" />
 <figcaption>漂流时候的结合背景音乐的滚动歌词。</figcaption>
 </figure>
 
